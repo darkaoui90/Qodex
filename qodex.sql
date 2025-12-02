@@ -118,9 +118,7 @@ VALUES (80, NOW(), 2, 1),
        (90, NOW(), 2, 2),
        (40, NOW(), 3, 2);
 
-/* 
-5) 23 QUERIES
-*/
+
 
 -- QUERY 1 : 
 INSERT INTO quiz (titre_quiz, descriptions, id_categorie, id_enseignant, duree_minutes)
